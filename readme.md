@@ -6,7 +6,7 @@
 pip install -r requirements.txt
 Запуск сервера:  
 python manage.py runserver
-Для запуска клиента нужно запустить в браузере index.html  
+Для запуска клиента нужно запустить в браузере index.html  который находится в папке JS
 
 
 
